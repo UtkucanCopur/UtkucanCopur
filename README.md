@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I'm a beginner developer exploring Artificial Intelligence 🤖, Data Science 📊, and Game Development 🎮.<br>💻 I work with Python and C#, creating small projects to learn and grow.<br>🚀 I love discovering new technologies, learning by building, and blending creativity w
+👋 I'm a beginner developer exploring Artificial Intelligence 🤖, Data Science 📊, and Game Development 🎮.<br>💻 I work with Python and C#, creating small projects to learn and grow.<br>🚀 I love discovering new technologies, learning by building, and blending creativity 
 
 
 ## 🌐 Socials:
