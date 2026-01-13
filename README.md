@@ -65,20 +65,31 @@ I am a software developer actively building projects in game development, artifi
 
 ###
 
-<!-- 2) GitHub Stats + 3) Top Languages (workflow yok, direkt çalışır) -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UtkucanCopur&show_icons=true&hide_border=false" height="170" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkucanCopur&layout=compact&hide_border=false" height="170" alt="top languages" />
-</div>
+<!-- 2) GitHub Stats + 3) Top Languages -->
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=UtkucanCopur&show_icons=true&include_all_commits=true&rank_icon=github&cache_seconds=7200&v=1"
+    height="170"
+    alt="github stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkucanCopur&layout=compact&langs_count=8&cache_seconds=7200&v=1"
+    height="170"
+    alt="top languages"
+  />
+</p>
 
 ###
 
 <h3 align="left">🔥 My Streak</h3>
 
-###
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=UtkucanCopur&theme=dark&cache_seconds=7200&v=1"
+    height="220"
+    alt="streak graph"
+  />
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=UtkucanCopur&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
-</div>
 
 ###
