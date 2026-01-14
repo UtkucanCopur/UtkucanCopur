@@ -65,31 +65,22 @@ I am a software developer actively building projects in game development, artifi
 
 ###
 
-<!-- 2) GitHub Stats + 3) Top Languages -->
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UtkucanCopur&theme=dark)](https://github.com/UtkucanCopur)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UtkucanCopur&theme=dark&utcOffset=3" />
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=UtkucanCopur&show_icons=true&include_all_commits=true&rank_icon=github&cache_seconds=7200&v=1"
-    height="170"
-    alt="github stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkucanCopur&layout=compact&langs_count=8&cache_seconds=7200&v=1"
-    height="170"
-    alt="top languages"
-  />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="55%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UtkucanCopur&theme=dark&hide_border=true" width="40%" />
 </p>
 
-###
 
-<h3 align="left">🔥 My Streak</h3>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=UtkucanCopur&theme=dark&cache_seconds=7200&v=1"
-    height="220"
-    alt="streak graph"
-  />
-</p>
+
+
+
+
+
+
+
 
 
 ###
