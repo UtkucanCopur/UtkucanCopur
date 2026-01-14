@@ -67,10 +67,15 @@ I am a software developer actively building projects in game development, artifi
 
 [![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UtkucanCopur&theme=dark)](https://github.com/UtkucanCopur)
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UtkucanCopur&theme=dark&utcOffset=3" />
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="55%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=UtkucanCopur&theme=dark&hide_border=true" width="40%" />
-</p>
+
+
+
+
+
+
+
+
+
 
 
 
