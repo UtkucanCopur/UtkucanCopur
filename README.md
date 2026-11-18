@@ -1,31 +1,3 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/utkucan-%C3%A7opur-138887255/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo" />
-  </a>
-
-  <a href="mailto:utkucan.copur00@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo" />
-  </a>
-
-  <!-- Slack linkin gerçek bir URL değilse ikon tıklanınca bir şey açmaz.
-       Slack profil / workspace linkin varsa buraya koy. Şimdilik kaldırmadım, placeholder bıraktım. -->
-  <a href="https://slack.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="37" height="25" alt="slack logo" />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=UtkucanCopur.UtkucanCopur&" />
-</div>
-
 ###
 
 <h1 align="center">hey there 👋</h1>
@@ -37,24 +9,49 @@
 ###
 
 <p align="left">
-I am a software developer actively building projects in game development, artificial intelligence, and data science, with a strong focus on developing these disciplines in parallel. I work with Unity and C# on game mechanics, interaction systems, and player experience, while also developing AI and data-driven applications using the Python ecosystem. On the artificial intelligence side, I focus on practical AI solutions, including modern LLM-based systems and Retrieval-Augmented Generation (RAG) architectures. In data science, I strengthen my skills through hands-on projects involving data processing, analysis, and modeling. I consistently improve my technical expertise across all three fields by practicing regularly and keeping up with evolving technologies.
+🎮 I'm a Game Developer passionate about creating interactive experiences, developing gameplay systems, and building engaging games with Unity and C#.
+
+I enjoy solving technical challenges, designing scalable gameplay architectures, and transforming creative ideas into functional game mechanics.
+
+## 🛠️ Technical Skills
+
+### Game Development
+- Unity Engine
+- 2D & 3D Game Development
+- Gameplay Programming
+- Game Mechanics & Systems Development
+- Physics-Based Gameplay
+- Animation Systems
+- UI/UX Implementation
+- Scene Management
+
+### C# & Programming
+- Object-Oriented Programming (OOP)
+- SOLID Principles
+- Design Patterns
+- Data Structures & Algorithms
+- Event-Driven Architecture
+- Delegates, Events & Actions
+- Coroutines & State Management
+- Clean Code & Code Optimization
+
+### Unity Technical Skills
+- Component-Based Architecture
+- ScriptableObject-Based Architecture
+- Unity Input System & Input Action Management
+- Rigidbody & Physics Systems
+- Collision Detection & Raycasting
+- Animator Controller & Animation State Machines
+- NavMesh & AI Navigation
+- Object Pooling & Memory Management
+- Unity UI System (Canvas, RectTransform, UI Events)
+- Scene Management & Scene Transitions
+- Prefab Variants & Nested Prefabs
 </p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo" />
-</div>
-
-###
 
 <h3 align="left">📈 GitHub Analytics</h3>
 
